@@ -5,23 +5,11 @@
 <h1 align="center">play-rex</h1>
 
 <p align="center">
-  <i>Before the screens, there was a table.</i><br>
-  A worn-out deck, a scorepad full of crossed-out numbers,<br>
-  and always someone who wanted one more round.<br><br>
-  Somewhere along the way we learned the game was never really about winning.<br>
-  It was about who sat with you.<br><br>
-  We're a bunch of Magdeburgers who never quite left that table,<br>
-  so we're building our own games to keep the seats warm.
+  Before the screens, there was a table: a worn-out deck, a scorepad full of crossed-out numbers, and always someone who wanted one more round. Somewhere along the way we learned the game was never really about winning; it was about who sat with you. We're a bunch of Magdeburgers who never quite left that table, so we're building our own games to keep the seats warm.
 </p>
 
 <p align="center">
-  <i>Vor den Bildschirmen gab es einen Tisch.</i><br>
-  Ein abgegriffenes Kartenspiel, ein Block voller durchgestrichener Punkte<br>
-  und immer jemand, der noch eine Runde wollte.<br><br>
-  Irgendwann haben wir gemerkt: Es ging nie wirklich ums Gewinnen.<br>
-  Es ging darum, wer mit am Tisch saß.<br><br>
-  Wir sind ein Haufen Magdeburger, die diesen Tisch nie ganz verlassen haben.<br>
-  Also entwickeln wir unsere eigenen Spiele, damit die Plätze warm bleiben.
+  Vor den Bildschirmen gab es einen Tisch: ein abgegriffenes Kartenspiel, ein Block voller durchgestrichener Punkte und immer jemand, der noch eine Runde wollte. Irgendwann haben wir gemerkt, dass es nie wirklich ums Gewinnen ging, sondern darum, wer mit am Tisch saß. Wir sind ein Haufen Magdeburger, die diesen Tisch nie ganz verlassen haben, also entwickeln wir unsere eigenen Spiele, damit die Plätze warm bleiben.
 </p>
 
 <h2 align="center">Team</h2>
